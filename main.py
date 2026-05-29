@@ -8,7 +8,7 @@ import os
 # ================= CONFIG =================
 API_ID = 33124839
 API_HASH = "3931d05edcb8b1a0a3a121efe9516f95"
-BOT_TOKEN = "8859104219:AAGmLH15n3FEJF3KonONcLlh6nqUKFhtyKE"
+BOT_TOKEN = "8859104219:AAHnty9uZicQW9osVTp0ZUdm5u54YkRpVSE"
 OWNER_ID = 8349746023
 
 SUDO_FILE = "sudo_users.json"
